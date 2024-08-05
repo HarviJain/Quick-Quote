@@ -1,6 +1,6 @@
 # 🚀 Quick Quote
 
-![Quick Quote Demo](demo-image-url-placeholder.png)
+![Quick Quote Demo](https://github.com/HarviJain/Quick-Quote/blob/main/Demo%20Image.png)
 
 Quick Quote is a sleek, modern web application that delivers inspiring quotes at the click of a button. With its elegant design and user-friendly interface, it's the perfect way to get your daily dose of motivation or find that perfect quote to share.
 
